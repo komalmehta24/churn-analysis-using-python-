@@ -1,0 +1,36 @@
+# Case Study: ConnectTel Customer Churn Analysis
+
+##  Executive Summary
+
+**Company**: ConnectTel Communications  
+**Analysis Period**: 2024  
+**Analyst**: Data Analytics Team  
+**Problem**: 26.5% annual customer churn rate costing $4M+ annually  
+
+**Key Finding**: Month-to-month contracts drive 4.5x higher churn than annual contracts
+
+**Top Recommendation**: Convert high-risk month-to-month customers to annual contracts, saving $1.1M in first year
+
+
+
+## 1. Business Problem
+
+### The Situation
+ConnectTel is losing customers faster than industry average. With 7,043 total customers, we lost 1,869 customers last year.
+
+### The Impact
+- **Revenue Loss**: $2.8M in annual recurring revenue
+- **Acquisition Cost**: $1.2M to replace lost customers
+- **Total Annual Loss**: $4.0M
+
+### Why This Matters
+- Every 1% reduction in churn saves $150,000
+- Customer lifetime value is 3x higher for loyal customers
+- Competitors are gaining market share
+
+
+
+
+
+
+
